@@ -28,7 +28,7 @@
 						<Main-Class>com.example.App</Main-Class>
 					</manifestEntries>
 				</archive>
-			</configurations>
+			</configuration>
 		</plugin>
 		
 		<!-- https://mvnrepository.com/artifact/org.apache.maven.plugins/maven-surefire-plugin -->
