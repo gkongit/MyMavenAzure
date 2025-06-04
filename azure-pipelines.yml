@@ -16,5 +16,5 @@ steps:
 - script: mvn clean install
   displayName: 'Maven Install'
 
-- script: java -jar target/MyMavenApp-1.0-SNAPSHOT.jar
+- script: java -jar target/MyMavenAzure-1.0-SNAPSHOT.jar
   displayName: 'Run JAR'
